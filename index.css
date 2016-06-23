@@ -1,4 +1,18 @@
 #title {
-  font-family: sans-serif;
   text-align: center;
+  font-family: sans-serif;
+}
+
+.conteneur{
+    padding-top: 20px;
+}
+
+.groupes{
+    text-align: left;
+    padding-left: 300px;
+}
+
+.equipes {
+  text-align: center;
+  padding-top: 10px;
 }
